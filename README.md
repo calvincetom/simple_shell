@@ -63,22 +63,22 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 
 ### Example of error with sh
 
-'''
+```text
 $ echo "qwerty" | /bin/sh
 /bin/sh: 1: qwerty: not found
 $ echo "qwerty" | /bin/../bin/sh
 /bin/../bin/sh: 1: qwerty: not found
-'''
+```
 
 ### Same error with your program hsh
 
-'''
+```text
 $ echo "qwerty" | ./hsh
 ./hsh: 1: qwerty: not found
 $ echo "qwerty" | ./././hsh
 ./././hsh: 1: qwerty: not found
 $
-'''
+```
 
 ## List of allowed functions and system calls
 
