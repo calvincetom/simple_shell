@@ -11,9 +11,9 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 ## General
 
 - Who designed and implemented the original Unix operating system.
-- Who wrote the first version of the __UNIX shell__
+- Who wrote the first version of the [UNIX Shell](https://en.wikipedia.org/wiki/Unix_shell)
 - Who invented the B programming language (the direct predecessor to the C programming language)
-- Who is __Ken Thompson__
+- Who is [Ken Thompson](https://en.wikipedia.org/wiki/Ken_Thompson)
 - How does a shell work
 - What is a pid and a ppid
 - How to manipulate the environment of the current process
@@ -82,37 +82,37 @@ $
 
 ## List of allowed functions and system calls
 
-- [access](man 2 access)
-- [chdir](man 2 chdir)
-- [close](man 2 close)
-- [closedir](man 3 closedir)
-- [execve](man 2 execve)
-- [exit](man 3 exit)
-- [_exit](man 2_exit)
-- [fflush](man 3 fflush)
-- [fork](man 2 fork)
-- [free](man 3 free)
-- [getcwd](man 3 getcwd)
-- [getline](man 3 getline)
-- [getpid](man 2 getpid)
-- [isatty](man 3 isatty)
-- [kill](man 2 kill)
-- [malloc](man 3 malloc)
-- [open](man 2 open)
-- [opendir](man 3 opendir)
-- [perror](man 3 perror)
-- [read](man 2 read)
-- [readdir](man 3 readdir)
-- [signal](man 2 signal)
-- [stat](__xstat) (man 2 stat)
-- [lstat](__lxstat) (man 2 lstat)
-- [fstat](__fxstat) (man 2 fstat)
-- [strtok](man 3 strtok)
-- [wait](man 2 wait)
-- [waitpid](man 2 waitpid)
-- [wait3](man 2 wait3)
-- [wait4](man 2 wait4)
-- [write](man 2 write)
+- [access](https://manpages.org/access/2)
+- [chdir](https://manpages.org/chdir/2)
+- [close](https://manpages.org/close/2)
+- [closedir](https://manpages.org/closedir/3)
+- [execve](https://manpages.org/execve/2)
+- [exit](https://manpages.org/exit/3)
+- [_exit](https://manpages.org/_exit/2)
+- [fflush](https://manpages.org/fflush/2)
+- [fork](https://manpages.org/fork/2)
+- [free](https://manpages.org/free/3)
+- [getcwd](https://manpages.org/getcwd/3)
+- [getline](https://manpages.org/getline/3)
+- [getpid](https://manpages.org/getpid/2)
+- [isatty](https://manpages.org/isatty/2)
+- [kill](https://manpages.org/kill/2)
+- [malloc](https://manpages.org/malloc/3)
+- [open](https://manpages.org/open/2)
+- [opendir](https://manpages.org/opendir/3)
+- [perror](https://manpages.org/perror/3)
+- [read](https://manpages.org/read/2)
+- [readdir](https://manpages.org/readdir/3)
+- [signal](https://manpages.org/signal/2)
+- [stat](https://manpages.org/stat/2)
+- [lstat](https://manpages.org/lstat/2)
+- [fstat](https://manpages.org/fstat/2)
+- [strtok](https://manpages.org/strtok/3)
+- [wait](https://manpages.org/wait/2)
+- [waitpid](https://manpages.org/waitpid/2))
+- [wait3](https://manpages.org/wait3/2)
+- [wait4](https://manpages.org/wait4/2)
+- [write](https://manpages.org/write/2)
 
 ## Compilation
 
