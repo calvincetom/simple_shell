@@ -109,7 +109,7 @@ $
 - [fstat](https://manpages.org/fstat/2)
 - [strtok](https://manpages.org/strtok/3)
 - [wait](https://manpages.org/wait/2)
-- [waitpid](https://manpages.org/waitpid/2))
+- [waitpid](https://manpages.org/waitpid/2)
 - [wait3](https://manpages.org/wait3/2)
 - [wait4](https://manpages.org/wait4/2)
 - [write](https://manpages.org/write/2)
