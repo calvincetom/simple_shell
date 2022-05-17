@@ -3,6 +3,13 @@
 #include <errno.h>
 #include <string.h>
 #include "shell.h"
+/**
+ * main: prompt user input and output, with memory management.
+ *
+ * Return (1): Always return 1, for success;
+ *
+ */
+
 int main(__attribute__((unused))int argc, __attribute__((unused))char **argv)
 {
 	char *cmd;
