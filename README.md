@@ -55,7 +55,7 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 
 ## More Info
 
-<Output
+### Output
 
 - Unless specified otherwise, your program must have the exact same output as sh (/bin/sh) as well as the exact same error output.
 
