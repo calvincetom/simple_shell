@@ -71,7 +71,7 @@ char *_getenv(char *name);
 char **parse_cmd(char *cmd);
 int handle_builtin(char **cmd, int er);
 void read_file(char *filename, char **argv);
-char *build(char *token, char *value);
+/* char *build(char *token, char *value); */
 int check_builtin(char **cmd);
 void creat_envi(char **envi);
 int cmd_check(char **tokens, char *line, int count, char **argv);
